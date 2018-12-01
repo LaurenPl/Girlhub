@@ -5,7 +5,10 @@
     width:7100px;
     background-color:#D3D3F8;
 }
-p{
+body{
+     background-color:#AB9EB9;
+    }
+       p{
   
   margin: 0;
     padding: 0;
